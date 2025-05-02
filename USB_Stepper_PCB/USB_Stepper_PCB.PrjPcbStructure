@@ -1,2 +1,4 @@
-Record=TopLevelDocument|FileName=MCU.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=USB_PD.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=DRIVER.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=DRIVER.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=DRIVER.SchDoc|FileName=TOP.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=DRIVER.SchDoc|FileName=USB_PD.SchDoc|SheetNumber=1
